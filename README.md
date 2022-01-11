@@ -7,3 +7,9 @@ This repo contains [Patika.dev](patika.dev)'s Data Structures and Algorithms Mod
 * [Insertion Sort Project](insertionSortProject.md)
 * [Merge Sort Project](mergeSortProject.md)
 * [Binary Search Tree Project](binarySearchTreeProject.md)
+
+
+<br>
+
+---
+### License [MIT](https://choosealicense.com/licenses/mit/)
