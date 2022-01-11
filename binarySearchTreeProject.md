@@ -7,7 +7,7 @@
 
 
 ## root = 3
-```cs
+```css
 1. [7] -> root'un sağında
 2. [5] -> root'un sağında, node [7]'nin solunda
 3. [1] -> root'un solunda
