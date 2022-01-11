@@ -12,4 +12,4 @@ This repo contains [Patika.dev](patika.dev)'s Data Structures and Algorithms Mod
 <br>
 
 ---
-### License [MIT](https://choosealicense.com/licenses/mit/)
+ License [MIT](https://choosealicense.com/licenses/mit/)
