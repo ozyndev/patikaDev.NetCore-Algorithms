@@ -15,11 +15,14 @@
 ```
 
 <br>
+
 >**2. Big-O Notation:**
+
 * 0+1+2+3+...+(n-2)+(n-1) = n(n+1)/2
 * O(n<sup>2</sup>)
 
 <br>
+
 >**3. Time Complexity:**
 
 
